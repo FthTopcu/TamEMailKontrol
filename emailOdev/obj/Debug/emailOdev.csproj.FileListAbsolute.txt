@@ -1,0 +1,7 @@
+C:\Users\103AKSAM_FATİH\Source\Repos\18-11-2021\emailOdev\emailOdev\obj\Debug\emailOdev.csproj.AssemblyReference.cache
+C:\Users\103AKSAM_FATİH\Source\Repos\18-11-2021\emailOdev\emailOdev\obj\Debug\emailOdev.csproj.CoreCompileInputs.cache
+C:\Users\103AKSAM_FATİH\Source\Repos\18-11-2021\emailOdev\emailOdev\bin\Debug\emailOdev.exe.config
+C:\Users\103AKSAM_FATİH\Source\Repos\18-11-2021\emailOdev\emailOdev\bin\Debug\emailOdev.exe
+C:\Users\103AKSAM_FATİH\Source\Repos\18-11-2021\emailOdev\emailOdev\bin\Debug\emailOdev.pdb
+C:\Users\103AKSAM_FATİH\Source\Repos\18-11-2021\emailOdev\emailOdev\obj\Debug\emailOdev.exe
+C:\Users\103AKSAM_FATİH\Source\Repos\18-11-2021\emailOdev\emailOdev\obj\Debug\emailOdev.pdb
